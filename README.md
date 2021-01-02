@@ -18,7 +18,7 @@ A project to demonstrate the IoT and where the sensory data is uploaded to Thing
 3a. Tools -> Boards -> ESP32 -> NodeMCU32-S <br/>
 3b. Tools -> Port -> COM3 (It can be varied)
 4. Install the Libraries (Adafruit Sensor, DHT11 Sensor Library and Thingspeak)
-6. Change the WiFi Credentials
+6. Change the WiFi Credentials, Thingspeak Credentials (Optional)
 7. Upload the Program
 8. Connect LED Display, and Switch on the Power
 
